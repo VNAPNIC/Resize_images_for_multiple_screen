@@ -28,7 +28,3 @@ If you just want to download the executable jar, click <b><a href="Executable%20
 
 
 If you love this tool and want to contribute with the developer, please consider donating!
-
-<a href='https://pledgie.com/campaigns/23760'><img alt='Click here to lend your support to: Final Android Resizer and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/23760.png?skin_name=chrome' border='0' ></a>
-
-<a class="coinbase-button" data-code="8660b2e1e3b6bf98beba1c1c1915b805" data-button-style="donation_small" href="https://coinbase.com/checkouts/8660b2e1e3b6bf98beba1c1c1915b805">Donate Bitcoins</a>
